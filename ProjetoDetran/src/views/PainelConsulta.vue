@@ -1,9 +1,7 @@
 <template>
   <div class="home">
-    <MenuRouter />
     <Menu id="MenuConsulta"/>
     <Consulta />
-    
         <div id="nav"> 
     </div>
     <router-view/>
